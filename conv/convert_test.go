@@ -2,7 +2,7 @@ package conv_test
 
 import (
 	"fmt"
-	"github.com/gophero/gotools/conv"
+	"github.com/nicktaobo/go_tool/conv"
 	"math"
 	"math/big"
 	"reflect"

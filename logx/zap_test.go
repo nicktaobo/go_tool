@@ -2,7 +2,7 @@ package logx_test
 
 import (
 	"fmt"
-	"github.com/gophero/gotools/logx"
+	"github.com/nicktaobo/go_tool/logx"
 	"testing"
 
 	"github.com/stretchr/testify/assert"

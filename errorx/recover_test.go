@@ -2,8 +2,8 @@ package errorx_test
 
 import (
 	"context"
-	"github.com/gophero/gotools/errorx"
-	"github.com/gophero/gotools/testx"
+	"github.com/nicktaobo/go_tool/errorx"
+	"github.com/nicktaobo/go_tool/testx"
 	"sync/atomic"
 	"testing"
 

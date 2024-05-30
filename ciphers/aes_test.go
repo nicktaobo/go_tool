@@ -2,8 +2,8 @@ package ciphers_test
 
 import (
 	"fmt"
-	"github.com/gophero/gotools/ciphers"
-	"github.com/gophero/gotools/random"
+	"github.com/nicktaobo/go_tool/ciphers"
+	"github.com/nicktaobo/go_tool/random"
 	"testing"
 )
 

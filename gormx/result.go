@@ -2,7 +2,7 @@ package util
 
 import (
 	"errors"
-	"github.com/gophero/gotools/errorx"
+	"github.com/nicktaobo/go_tool/errorx"
 	"gorm.io/gorm"
 )
 

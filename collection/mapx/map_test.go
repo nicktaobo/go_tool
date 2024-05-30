@@ -1,8 +1,8 @@
 package mapx_test
 
 import (
-	"github.com/gophero/gotools/collection/mapx"
-	"github.com/gophero/gotools/testx"
+	"github.com/nicktaobo/go_tool/collection/mapx"
+	"github.com/nicktaobo/go_tool/testx"
 	"testing"
 )
 

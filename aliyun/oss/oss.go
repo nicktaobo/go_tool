@@ -3,8 +3,8 @@ package oss
 import (
 	"fmt"
 	"github.com/aliyun/aliyun-oss-go-sdk/oss"
-	"github.com/gophero/gotools/assert"
-	"github.com/gophero/gotools/errorx"
+	"github.com/nicktaobo/go_tool/assert"
+	"github.com/nicktaobo/go_tool/errorx"
 	"io"
 )
 

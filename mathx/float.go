@@ -2,8 +2,8 @@ package mathx
 
 import (
 	"fmt"
-	"github.com/gophero/gotools/conv"
-	"github.com/gophero/gotools/valuex"
+	"github.com/nicktaobo/go_tool/conv"
+	"github.com/nicktaobo/go_tool/valuex"
 	"math"
 	"strconv"
 )

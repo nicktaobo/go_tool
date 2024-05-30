@@ -3,9 +3,9 @@ package mempool_test
 import (
 	"bytes"
 	"encoding/hex"
-	"github.com/gophero/gotools/btcx"
-	"github.com/gophero/gotools/btcx/mempool"
-	"github.com/gophero/gotools/btcx/util"
+	"github.com/nicktaobo/go_tool/btcx"
+	"github.com/nicktaobo/go_tool/btcx/mempool"
+	"github.com/nicktaobo/go_tool/btcx/util"
 	"testing"
 
 	"github.com/btcsuite/btcd/txscript"

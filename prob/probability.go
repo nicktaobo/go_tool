@@ -2,7 +2,7 @@ package prob
 
 import (
 	"fmt"
-	"github.com/gophero/gotools/assert"
+	"github.com/nicktaobo/go_tool/assert"
 	"math/rand"
 	"time"
 )

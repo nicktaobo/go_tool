@@ -3,9 +3,9 @@ package model
 import (
 	"encoding/hex"
 	"github.com/btcsuite/btcd/wire"
-	"github.com/gophero/gotools/btcx"
-	"github.com/gophero/gotools/btcx/util"
-	"github.com/gophero/gotools/logx"
+	"github.com/nicktaobo/go_tool/btcx"
+	"github.com/nicktaobo/go_tool/btcx/util"
+	"github.com/nicktaobo/go_tool/logx"
 )
 
 type UTXO struct {

@@ -1,8 +1,8 @@
 package color_test
 
 import (
-	"github.com/gophero/gotools/color"
-	"github.com/gophero/gotools/testx"
+	"github.com/nicktaobo/go_tool/color"
+	"github.com/nicktaobo/go_tool/testx"
 	"strings"
 	"testing"
 )

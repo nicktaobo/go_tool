@@ -3,12 +3,12 @@ package redisx_test
 import (
 	"context"
 	"fmt"
-	"github.com/gophero/gotools/redisx"
-	"github.com/gophero/gotools/testx"
+	"github.com/nicktaobo/go_tool/redisx"
+	"github.com/nicktaobo/go_tool/testx"
 	"testing"
 	"time"
 
-	"github.com/gophero/gotools/assert"
+	"github.com/nicktaobo/go_tool/assert"
 	"github.com/redis/go-redis/v9"
 )
 

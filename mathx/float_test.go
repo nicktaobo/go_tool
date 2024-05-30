@@ -2,7 +2,7 @@ package mathx
 
 import (
 	"fmt"
-	"github.com/gophero/gotools/assert"
+	"github.com/nicktaobo/go_tool/assert"
 	"math"
 	"math/big"
 	"math/rand"

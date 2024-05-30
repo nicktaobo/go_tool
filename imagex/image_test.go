@@ -2,8 +2,8 @@ package imagex_test
 
 import (
 	"bytes"
-	"github.com/gophero/gotools/errorx"
-	"github.com/gophero/gotools/imagex"
+	"github.com/nicktaobo/go_tool/errorx"
+	"github.com/nicktaobo/go_tool/imagex"
 	"image/jpeg"
 	"os"
 	"testing"

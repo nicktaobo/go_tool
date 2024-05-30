@@ -1,8 +1,8 @@
 package random_test
 
 import (
-	"github.com/gophero/gotools/random"
-	"github.com/gophero/gotools/testx"
+	"github.com/nicktaobo/go_tool/random"
+	"github.com/nicktaobo/go_tool/testx"
 	"math/rand"
 	"testing"
 	"time"

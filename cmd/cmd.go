@@ -2,7 +2,7 @@ package cmd
 
 import (
 	"fmt"
-	"github.com/gophero/gotools/logx"
+	"github.com/nicktaobo/go_tool/logx"
 	"os/exec"
 )
 

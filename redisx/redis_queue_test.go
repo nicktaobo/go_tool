@@ -2,8 +2,8 @@ package redisx_test
 
 import (
 	"fmt"
-	"github.com/gophero/gotools/redisx"
-	"github.com/gophero/gotools/testx"
+	"github.com/nicktaobo/go_tool/redisx"
+	"github.com/nicktaobo/go_tool/testx"
 	"github.com/redis/go-redis/v9"
 	"github.com/stretchr/testify/assert"
 	"os"

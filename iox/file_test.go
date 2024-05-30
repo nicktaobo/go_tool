@@ -1,8 +1,8 @@
 package iox_test
 
 import (
-	"github.com/gophero/gotools/iox"
-	"github.com/gophero/gotools/testx"
+	"github.com/nicktaobo/go_tool/iox"
+	"github.com/nicktaobo/go_tool/testx"
 	"testing"
 )
 

@@ -2,7 +2,7 @@ package date
 
 import (
 	"bytes"
-	"github.com/gophero/gotools/conv"
+	"github.com/nicktaobo/go_tool/conv"
 	"math"
 	"strconv"
 	"strings"

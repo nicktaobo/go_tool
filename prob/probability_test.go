@@ -2,7 +2,7 @@ package prob_test
 
 import (
 	"fmt"
-	"github.com/gophero/gotools/prob"
+	"github.com/nicktaobo/go_tool/prob"
 	"math"
 	"testing"
 )

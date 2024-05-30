@@ -1,7 +1,7 @@
 package testx_test
 
 import (
-	"github.com/gophero/gotools/testx"
+	"github.com/nicktaobo/go_tool/testx"
 	"testing"
 )
 

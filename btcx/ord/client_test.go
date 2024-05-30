@@ -3,8 +3,8 @@ package ord_test
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/gophero/gotools/btcx/ord"
-	"github.com/gophero/gotools/cmd"
+	"github.com/nicktaobo/go_tool/btcx/ord"
+	"github.com/nicktaobo/go_tool/cmd"
 	"testing"
 
 	"github.com/stretchr/testify/assert"

@@ -2,7 +2,7 @@ package twitter_test
 
 import (
 	"fmt"
-	"github.com/gophero/gotools/twitter"
+	"github.com/nicktaobo/go_tool/twitter"
 	"testing"
 )
 

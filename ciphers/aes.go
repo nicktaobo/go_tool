@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"crypto/aes"
 	"crypto/cipher"
-	"github.com/gophero/gotools/errorx"
+	"github.com/nicktaobo/go_tool/errorx"
 )
 
 // AES 加密算法

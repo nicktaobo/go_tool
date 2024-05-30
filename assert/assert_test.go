@@ -1,8 +1,8 @@
 package assert_test
 
 import (
-	"github.com/gophero/gotools/assert"
-	"github.com/gophero/gotools/testx"
+	"github.com/nicktaobo/go_tool/assert"
+	"github.com/nicktaobo/go_tool/testx"
 	"testing"
 )
 

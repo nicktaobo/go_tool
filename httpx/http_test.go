@@ -3,8 +3,8 @@ package httpx_test
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/gophero/gotools/httpx"
-	"github.com/gophero/gotools/testx"
+	"github.com/nicktaobo/go_tool/httpx"
+	"github.com/nicktaobo/go_tool/testx"
 	"io"
 	"io/ioutil"
 	"log"

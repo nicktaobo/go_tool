@@ -1,7 +1,7 @@
 package slicex
 
 import (
-	"github.com/gophero/gotools/str"
+	"github.com/nicktaobo/go_tool/str"
 	"reflect"
 	"sort"
 	"strings"

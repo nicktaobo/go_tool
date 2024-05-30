@@ -2,8 +2,8 @@ package uuid
 
 import (
 	"fmt"
-	"github.com/gophero/gotools/conv"
-	"github.com/gophero/gotools/errorx"
+	"github.com/nicktaobo/go_tool/conv"
+	"github.com/nicktaobo/go_tool/errorx"
 	"github.com/sony/sonyflake"
 )
 

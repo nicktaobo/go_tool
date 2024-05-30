@@ -2,8 +2,8 @@ package jsonx_test
 
 import (
 	"fmt"
-	"github.com/gophero/gotools/jsonx"
-	"github.com/gophero/gotools/testx"
+	"github.com/nicktaobo/go_tool/jsonx"
+	"github.com/nicktaobo/go_tool/testx"
 	"testing"
 	"time"
 )

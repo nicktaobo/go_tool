@@ -3,7 +3,7 @@ package redisx
 import (
 	"context"
 	"fmt"
-	"github.com/gophero/gotools/stringx"
+	"github.com/nicktaobo/go_tool/stringx"
 	"github.com/redis/go-redis/v9"
 	"strconv"
 	"sync/atomic"

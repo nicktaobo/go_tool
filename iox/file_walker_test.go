@@ -2,7 +2,7 @@ package iox_test
 
 import (
 	"fmt"
-	"github.com/gophero/gotools/iox"
+	"github.com/nicktaobo/go_tool/iox"
 	"strings"
 	"testing"
 )

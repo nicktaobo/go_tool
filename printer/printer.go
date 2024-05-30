@@ -2,7 +2,7 @@ package printer
 
 import (
 	"fmt"
-	"github.com/gophero/gotools/conv"
+	"github.com/nicktaobo/go_tool/conv"
 	"strconv"
 	"strings"
 )

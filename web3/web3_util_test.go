@@ -3,7 +3,7 @@ package web3
 import (
 	"fmt"
 	"github.com/btcsuite/btcd/chaincfg"
-	"github.com/gophero/gotools/httpx"
+	"github.com/nicktaobo/go_tool/httpx"
 	"io"
 	"net/http"
 	"testing"

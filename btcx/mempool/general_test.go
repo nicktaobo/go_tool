@@ -1,8 +1,8 @@
 package mempool_test
 
 import (
-	"github.com/gophero/gotools/btcx"
-	"github.com/gophero/gotools/btcx/mempool"
+	"github.com/nicktaobo/go_tool/btcx"
+	"github.com/nicktaobo/go_tool/btcx/mempool"
 	"testing"
 
 	"github.com/stretchr/testify/assert"

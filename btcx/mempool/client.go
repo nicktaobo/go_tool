@@ -2,7 +2,7 @@ package mempool
 
 import (
 	"fmt"
-	"github.com/gophero/gotools/btcx"
+	"github.com/nicktaobo/go_tool/btcx"
 	"github.com/pkg/errors"
 	"io"
 	"net/http"

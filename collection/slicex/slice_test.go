@@ -2,8 +2,8 @@ package slicex_test
 
 import (
 	"fmt"
-	"github.com/gophero/gotools/collection/slicex"
-	"github.com/gophero/gotools/testx"
+	"github.com/nicktaobo/go_tool/collection/slicex"
+	"github.com/nicktaobo/go_tool/testx"
 	"reflect"
 	"testing"
 )

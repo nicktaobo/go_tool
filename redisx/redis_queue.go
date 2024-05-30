@@ -3,7 +3,7 @@ package redisx
 import (
 	"context"
 	"fmt"
-	"github.com/gophero/gotools/queue"
+	"github.com/nicktaobo/go_tool/queue"
 	"github.com/redis/go-redis/v9"
 	"sync"
 	"time"

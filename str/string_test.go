@@ -1,9 +1,9 @@
 package str_test
 
 import (
-	"github.com/gophero/gotools/assert"
-	"github.com/gophero/gotools/str"
-	"github.com/gophero/gotools/testx"
+	"github.com/nicktaobo/go_tool/assert"
+	"github.com/nicktaobo/go_tool/str"
+	"github.com/nicktaobo/go_tool/testx"
 	"testing"
 )
 
